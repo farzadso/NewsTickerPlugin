@@ -1,0 +1,33 @@
+{
+  "name" : "News Ticker 1.0",
+  "version" : "1.0",
+  "description" : "A lightweight jQuery plugin for animating a simple news ticker.",
+  "keywords" : ["jQuery", "News", "Ticker", "JAFR"],
+  "homepage" : "https://github.com/farzadso/NewsTickerPlugin",
+  "bugs" : {
+    "url" : "https://github.com/farzadso/NewsTickerPlugin/issues",
+    "email" : "farzad.au@gmail.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Farzad Soltani",
+    "email" : "farzad.au@gmail.com",
+    "url" : "http://www.jafr.co"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/farzadso/NewsTickerPlugin.git"
+  },
+ "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["4.2", "5.0.3", "5.1"],
+      "plugin" : {
+        "internalName" : "COM.JAFR.NEWS.TICKER",
+        "type" : "item",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=104679:1",
+        "previewImage" : "http://i.imgur.com/R7wbr2L.jpg"
+      }
+    }
+  }
+}
