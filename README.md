@@ -1,6 +1,9 @@
 # NewsTickerPlugin
 Oracle APEX jQuery News Ticker Plugin
 
+##Demo
+[News Ticker Plugin - Click Here](https://apex.oracle.com/pls/apex/f?p=104679:1)
+
 ##Installation
 Just import the 
 ```html
@@ -135,3 +138,7 @@ Pink (Hot)
 Red
 Tomato
 ```
+
+## Author
+
+[Farzad Soltani](https://github.com/farzadso)
