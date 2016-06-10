@@ -5,7 +5,7 @@
   "keywords" : ["jQuery", "News", "Ticker", "JAFR"],
   "homepage" : "https://github.com/farzadso/NewsTickerPlugin",
   "bugs" : {
-    "url" : "https://github.com/farzadso/NewsTickerPlugin/issues",
+    "url" : "https://github.com/farzadso/NewsTickerPlugin",
     "email" : "farzad.au@gmail.com"
   },
   "license" : "MIT",
